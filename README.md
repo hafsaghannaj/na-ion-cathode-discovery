@@ -1,7 +1,5 @@
 # Na-ion Cathode Discovery: High-Throughput ML Screening
 
-Computational Chemistry Portfolio: Project 7 of 8
-
 A comprehensive computational search for novel sodium-ion battery cathode materials, combining high-throughput screening of Materials Project data, GNN-based voltage prediction with transfer learning from Li-ion, and ML universal potential validation using M3GNet/CHGNet.
 
 ## Motivation
